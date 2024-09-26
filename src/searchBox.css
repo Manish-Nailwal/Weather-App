@@ -1,0 +1,8 @@
+.searchBox{
+    text-align: center;
+}
+.search{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
