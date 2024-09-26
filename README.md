@@ -27,7 +27,7 @@ A simple weather application built with React that allows users to check the cur
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/Manish-Nailwal/Weather-App.git
    ```
 
 2. Navigate to the project directory:
