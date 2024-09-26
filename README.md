@@ -53,6 +53,11 @@ A simple weather application built with React that allows users to check the cur
 2. Open your browser and navigate to `http://localhost:5173`.
 
 3. Enter a city name in the search bar and view the weather information.
+
+
+## Demo
+
+You can view a live demo of the application [here](https://weather-app-wnng.onrender.com/).
 ```
 
-Feel free to adjust any sections or details as needed!
+Feel free to modify any sections further if needed!
